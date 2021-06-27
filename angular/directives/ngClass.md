@@ -22,3 +22,7 @@
 
 <some-element [ngClass]="{'class1 class2 class3' : true}">...</some-element>
 ```
+
+
+
+[view details about ngClass](https://angular.io/api/common/NgClass)

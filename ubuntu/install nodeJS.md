@@ -1,5 +1,10 @@
 # install node.js on ubuntu
 
+update the ubuntu repository
+```bash
+sudo apt update
+```
+
 
 ```bash
 sudo apt install nodejs
